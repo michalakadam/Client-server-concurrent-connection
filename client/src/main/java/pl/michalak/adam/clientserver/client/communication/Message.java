@@ -1,5 +1,8 @@
 package pl.michalak.adam.clientserver.client.communication;
 
+/**
+ * Wrapper for String representing data sent between clients.
+ */
 public class Message {
     private final String content;
 
